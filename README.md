@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Infinity26
-- 👀 I’m interested in teaching my self different things
-- 🌱 I’m currently learning how to read and configure codes
-- 💞️ I’m looking to collaborate on something interesting
+- 👀 I’m interested in..
+- 🌱 I’m currently...
+- 💞️ I’m looking to collaborate on.. 
 - 📫 How to reach me : lexirose1019@gmail.com
 
 <!---
